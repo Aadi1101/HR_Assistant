@@ -1,0 +1,13 @@
+langchain
+langchain-community
+streamlit
+pandas
+transformers
+tensorflow
+tf-keras
+torch
+transformers[sentencepiece]
+python-dotenv
+google-generativeai
+PyPDF2
+pdfkit
